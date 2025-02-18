@@ -6,7 +6,7 @@
 * Pedro Henrique
 * Vinicius Ribeiro
 
-### Mexico
+### Mexicog
 ### (Capital)
 A Cidade do México é uma metrópole pulsante, cheia de história e modernidade. Fundada pelos astecas como Tenochtitlán, ainda guarda vestígios dessa civilização, como as ruínas do Templo Mayor. Além disso, é um centro cultural, com museus renomados, como o Museu Frida Kahlo e o Museu Nacional de Antropologia. A cidade mistura arquitetura colonial com edifícios modernos e um cenário gastronômico incrível, oferecendo desde pratos típicos até alta cozinha. E, claro, não podemos esquecer do Zócalo, uma das praças mais grandes e movimentadas do mundo, que é o coração da cidade.
 ### (Curiosidades)
